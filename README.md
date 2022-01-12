@@ -1,6 +1,7 @@
 This repository provides implementation of our paper **SF-PATE: Scalable, Fair, and Private Aggregation of Teacher Ensembles**
 
 ## 1. Introduction
+The project is to develope a scalable private fair training framework that aims to protect the group labels of training data. The motivation of the paper comes from the limitation of previous work. For example, PF-LD which has  showed significant improvement over baseline methods but could not be scalable on huge data or infeasible to be trained on very deep networks such as Resnet50. 
 
 ## 2. Codes
 
